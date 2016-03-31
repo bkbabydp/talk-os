@@ -10,7 +10,7 @@ node_js:
   - "4.4"
   - "4"
   - "5"
-sudo: false
+sudo: true
 before_install: 
 script: "npm run init"
 after_script: 
